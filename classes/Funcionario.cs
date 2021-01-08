@@ -4,7 +4,7 @@ namespace AulaPOO_Polimorfismo_Sobrecarga.classes
 {
     public class Funcionario
     {
-        public string[] lista = {"Juninho", "Silvia", "Kleber", "Karen"};
+        public string[] lista = {"Kleber", "Silvia", "Juninho", "Karen"};
 
         public void Mostrar()              
         {

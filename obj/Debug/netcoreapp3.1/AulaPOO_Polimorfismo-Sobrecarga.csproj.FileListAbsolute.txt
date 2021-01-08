@@ -1,0 +1,13 @@
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.exe
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.deps.json
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.runtimeconfig.json
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.runtimeconfig.dev.json
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.dll
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.pdb
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.AssemblyInfo.cs
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.dll
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.pdb
+C:\Users\Telma\Desktop\Polimorfismo_SobrecargaPOO\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.genruntimeconfig.cache

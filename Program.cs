@@ -12,7 +12,7 @@ namespace AulaPOO_Polimorfismo_Sobrecarga
             funcionario.Mostrar();
             funcionario.Mostrar(0);
             funcionario.Mostrar(9); 
-            funcionario.Mostrar("Kleber");
+            funcionario.Mostrar("Juninho");
 
             Console.Beep();
         }
